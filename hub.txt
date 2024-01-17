@@ -1,0 +1,5 @@
+hub ATACseq Multiome-seq 21C Macs2
+shortLabel ATACseq Multiome 21C Macs2
+longLabel ATACseq Multiome-seq Javier.2022 Macs2
+genomesFile genomes.txt 
+email  matteo.zoia@dbmr.unibe.ch
