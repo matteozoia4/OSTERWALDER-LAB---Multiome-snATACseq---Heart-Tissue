@@ -687,16 +687,14 @@ track 12_EP_ATACseq_Multiome_PROFILES_OVERLAY
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    
-    
+
         track EP_ATACseq_e09.5_Profile
         parent 12_EP_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135320e9ce95aa6d0a5/display?to_ext=bigwig
         shortLabel EP_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
         longLabel EP_ATACseq_Javier.L.R_Multiome2022_e9.5_DevelopmentalStageTrack_Profile
         type bigWig
-        color 70,156,118
-          
+        color 70,156,11
 
         track EP_ATACseq_e10.5_Profile
         parent 12_EP_ATACseq_Multiome_PROFILES_OVERLAY
@@ -706,7 +704,6 @@ track 12_EP_ATACseq_Multiome_PROFILES_OVERLAY
         type bigWig
         color 220,162,55
 
-
         track EP_ATACseq_e11.5_Profile
         parent 12_EP_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f9a5eb8fe49776f8/display?to_ext=bigwig
@@ -714,8 +711,6 @@ track 12_EP_ATACseq_Multiome_PROFILES_OVERLAY
         longLabel EP_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
-
-
 
 track EP_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135af9a64aaa9848247/display?to_ext=bigbed
