@@ -4,7 +4,7 @@ track 21_M_ATACseq_Multiome_PROFILES_OVERLAY
     longLabel M_MACS2  
     type bigWig 0 30000
     configurable on
-    visibility stacked
+    visibility full
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:124.127
