@@ -18,7 +18,7 @@ track M_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track M_ATACseq_e9.5_Profile
+        track M_ATACseq_e09.5_Profile
         parent M_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213501c399c172d73f48/display?to_ext=bigwig
         shortLabel M_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -66,7 +66,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track M_ATACseq_e9.5_Peaks
+track M_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135abf0651e459fb897/display?to_ext=bigbed
 itemRgb on
 shortLabel M_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -97,7 +97,7 @@ track RBC_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track RBC_ATACseq_e9.5_Profile
+        track RBC_ATACseq_e09.5_Profile
         parent RBC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c0fee8a82362534e/display?to_ext=bigwig
         shortLabel RBC_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -145,7 +145,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track RBC_ATACseq_e9.5_Peaks
+track RBC_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135132f4d94b7aedab0/display?to_ext=bigbed
 itemRgb on
 shortLabel RBC_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -176,7 +176,7 @@ track NCC_like_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track NCC_like_ATACseq_e9.5_Profile
+        track NCC_like_ATACseq_e09.5_Profile
         parent NCC_like_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b05fe1ee254f1039/display?to_ext=bigwig
         shortLabel NCC_like_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -224,7 +224,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track NCC_like_ATACseq_e9.5_Peaks
+track NCC_like_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354bf5f13e4d711ad7/display?to_ext=bigbed
 itemRgb on
 shortLabel NCC_like_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -255,7 +255,7 @@ track TP_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track TP_ATACseq_e9.5_Profile
+        track TP_ATACseq_e09.5_Profile
         parent TP_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135df6093b343403941/display?to_ext=bigwig
         shortLabel TP_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -303,7 +303,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track TP_ATACseq_e9.5_Peaks
+track TP_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a32cd433857e4e86/display?to_ext=bigbed
 itemRgb on
 shortLabel TP_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -334,7 +334,7 @@ track PA_endo_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track PA_endo_ATACseq_e9.5_Profile
+        track PA_endo_ATACseq_e09.5_Profile
         parent PA_endo_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213574ce3413050bdc4a/display?to_ext=bigwig
         shortLabel PA_endo_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -382,7 +382,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track PA_endo_ATACseq_e9.5_Peaks
+track PA_endo_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213519de3321ea24da23/display?to_ext=bigbed
 itemRgb on
 shortLabel PA_endo_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -413,7 +413,7 @@ track PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track PA_ecto_ATACseq_e9.5_Profile
+        track PA_ecto_ATACseq_e09.5_Profile
         parent PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354be62649e1356c0e/display?to_ext=bigwig
         shortLabel PA_ecto_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -440,7 +440,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track PA_ecto_ATACseq_e9.5_Peaks
+track PA_ecto_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135114e8c40a308ce30/display?to_ext=bigbed
 itemRgb on
 shortLabel PA_ecto_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -471,7 +471,7 @@ track PaM_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track PaM_ATACseq_e9.5_Profile
+        track PaM_ATACseq_e09.5_Profile
         parent PaM_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721353395e6e6631b9230/display?to_ext=bigwig
         shortLabel PaM_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -519,7 +519,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track PaM_ATACseq_e9.5_Peaks
+track PaM_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357af6225bb17b3c99/display?to_ext=bigbed
 itemRgb on
 shortLabel PaM_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -550,7 +550,7 @@ track PE_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track PE_ATACseq_e9.5_Profile
+        track PE_ATACseq_e09.5_Profile
         parent PE_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c0f6a481c0a336e6/display?to_ext=bigwig
         shortLabel PE_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -598,7 +598,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track PE_ATACseq_e9.5_Peaks
+track PE_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135644b65aaec9fb4d9/display?to_ext=bigbed
 itemRgb on
 shortLabel PE_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -689,7 +689,7 @@ track EP_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track EP_ATACseq_e9.5_Profile
+        track EP_ATACseq_e09.5_Profile
         parent EP_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135320e9ce95aa6d0a5/display?to_ext=bigwig
         shortLabel EP_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -737,7 +737,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track EP_ATACseq_e9.5_Peaks
+track EP_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135258a760f35969b0a/display?to_ext=bigbed
 itemRgb on
 shortLabel EP_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -768,7 +768,7 @@ track EndMT_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track EndMT_ATACseq_e9.5_Profile
+        track EndMT_ATACseq_e09.5_Profile
         parent EndMT_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213512c6ce230ab33938/display?to_ext=bigwig
         shortLabel EndMT_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -816,7 +816,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track EndMT_ATACseq_e9.5_Peaks
+track EndMT_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a10c85b6d4e2ed05/display?to_ext=bigbed
 itemRgb on
 shortLabel EndMT_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -847,7 +847,7 @@ track EC_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track EC_ATACseq_e9.5_Profile
+        track EC_ATACseq_e09.5_Profile
         parent EC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a5d3e4a5c30aa581/display?to_ext=bigwig
         shortLabel EC_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -895,7 +895,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track EC_ATACseq_e9.5_Peaks
+track EC_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fdc40cd61928a508/display?to_ext=bigbed
 itemRgb on
 shortLabel EC_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -926,7 +926,7 @@ track VEC_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track VEC_ATACseq_e9.5_Profile
+        track VEC_ATACseq_e09.5_Profile
         parent VEC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213538873b7dda74d471/display?to_ext=bigwig
         shortLabel VEC_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -974,7 +974,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track VEC_ATACseq_e9.5_Peaks
+track VEC_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ef4450aca5f7ba17/display?to_ext=bigbed
 itemRgb on
 shortLabel VEC_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -1005,7 +1005,7 @@ track cNCC_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track cNCC_ATACseq_e9.5_Profile
+        track cNCC_ATACseq_e09.5_Profile
         parent cNCC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c8d483c13ca4ace8/display?to_ext=bigwig
         shortLabel cNCC_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -1053,7 +1053,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track cNCC_ATACseq_e9.5_Peaks
+track cNCC_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135aed74a6dc19a5c0f/display?to_ext=bigbed
 itemRgb on
 shortLabel cNCC_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -1084,7 +1084,7 @@ track PM_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track PM_ATACseq_e9.5_Profile
+        track PM_ATACseq_e09.5_Profile
         parent PM_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c40e3aaa3cdb6e7c/display?to_ext=bigwig
         shortLabel PM_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -1111,7 +1111,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track PM_ATACseq_e9.5_Peaks
+track PM_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135eff449b99c96fa7b/display?to_ext=bigbed
 itemRgb on
 shortLabel PM_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -1142,7 +1142,7 @@ track OFT_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track OFT_ATACseq_e9.5_Profile
+        track OFT_ATACseq_e09.5_Profile
         parent OFT_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135993b550e0fea1eaf/display?to_ext=bigwig
         shortLabel OFT_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -1190,7 +1190,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track OFT_ATACseq_e9.5_Peaks
+track OFT_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135674cfb4cd8c27ffe/display?to_ext=bigbed
 itemRgb on
 shortLabel OFT_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -1221,7 +1221,7 @@ track pSHF_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track pSHF_ATACseq_e9.5_Profile
+        track pSHF_ATACseq_e09.5_Profile
         parent pSHF_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135899689a4286eba9b/display?to_ext=bigwig
         shortLabel pSHF_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -1269,7 +1269,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track pSHF_ATACseq_e9.5_Peaks
+track pSHF_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721353e4cccf4b596f6dc/display?to_ext=bigbed
 itemRgb on
 shortLabel pSHF_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -1300,7 +1300,7 @@ track SV_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track SV_ATACseq_e9.5_Profile
+        track SV_ATACseq_e09.5_Profile
         parent SV_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c3aa71a355ae5c4f/display?to_ext=bigwig
         shortLabel SV_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -1348,7 +1348,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track SV_ATACseq_e9.5_Peaks
+track SV_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213531516baf2a068bb7/display?to_ext=bigbed
 itemRgb on
 shortLabel SV_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -1379,7 +1379,7 @@ track AVC_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track AVC_ATACseq_e9.5_Profile
+        track AVC_ATACseq_e09.5_Profile
         parent AVC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dc49b5088a957e4b/display?to_ext=bigwig
         shortLabel AVC_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -1427,7 +1427,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track AVC_ATACseq_e9.5_Peaks
+track AVC_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352d96c6139cb45786/display?to_ext=bigbed
 itemRgb on
 shortLabel AVC_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -1458,7 +1458,7 @@ track aCM_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track aCM_ATACseq_e9.5_Profile
+        track aCM_ATACseq_e09.5_Profile
         parent aCM_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721350dee4311fd564a20/display?to_ext=bigwig
         shortLabel aCM_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -1506,7 +1506,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track aCM_ATACseq_e9.5_Peaks
+track aCM_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135deff2d3662fa4052/display?to_ext=bigbed
 itemRgb on
 shortLabel aCM_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
@@ -1537,7 +1537,7 @@ track vCM_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track vCM_ATACseq_e9.5_Profile
+        track vCM_ATACseq_e09.5_Profile
         parent vCM_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d4833e8ddcb7d3a9/display?to_ext=bigwig
         shortLabel vCM_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
@@ -1585,7 +1585,7 @@ configurable on
 visibility dense
 color 220,162,55
 
-track vCM_ATACseq_e9.5_Peaks
+track vCM_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213518af3cf1c00b04c1/display?to_ext=bigbed
 itemRgb on
 shortLabel vCM_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
