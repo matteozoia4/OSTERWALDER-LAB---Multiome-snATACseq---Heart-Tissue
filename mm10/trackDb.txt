@@ -1,6 +1,6 @@
 track 21_M_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel M_ATACseq_DevelopmentalStages_PROFILES_OVERLAY
+    shortLabel n°21_M_ATACseq_DevelopmentalStages_PROFILES_OVERLAY
     longLabel M_MACS2  
     type bigWig 0 30000
     configurable on
@@ -21,7 +21,7 @@ track 21_M_ATACseq_Multiome_PROFILES_OVERLAY
         track 21_M_ATACseq_e09.5_Profile
         parent 21_M_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213501c399c172d73f48/display?to_ext=bigwig
-        shortLabel M_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
+        shortLabel n°21_M_ATACseq_e09.5_DevelopmentalStageTrack_PROFILE
         longLabel M_ATACseq_Javier.L.R_Multiome2022_e9.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
@@ -30,7 +30,7 @@ track 21_M_ATACseq_Multiome_PROFILES_OVERLAY
         track 21_M_ATACseq_e10.5_Profile
         parent 21_M_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135310d8b1beec28a58/display?to_ext=bigwig
-        shortLabel M_ATACseq_e10.5_DevelopmentalStageTrack_PROFILE
+        shortLabel n°21_M_ATACseq_e10.5_DevelopmentalStageTrack_PROFILE
         longLabel M_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
@@ -39,7 +39,7 @@ track 21_M_ATACseq_Multiome_PROFILES_OVERLAY
         track 21_M_ATACseq_e11.5_Profile
         parent 21_M_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ae3722508b5bb133/display?to_ext=bigwig
-        shortLabel M_ATACseq_e11.5_DevelopmentalStageTrack_PROFILE
+        shortLabel n°21_M_ATACseq_e11.5_DevelopmentalStageTrack_PROFILE
         longLabel M_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
