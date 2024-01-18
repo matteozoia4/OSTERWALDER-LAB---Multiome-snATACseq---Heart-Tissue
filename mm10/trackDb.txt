@@ -9,7 +9,7 @@ track 21_M_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate stacked
+    aggregate transparentOverlay/stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
