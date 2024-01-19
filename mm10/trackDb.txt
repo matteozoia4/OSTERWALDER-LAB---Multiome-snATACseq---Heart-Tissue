@@ -128,7 +128,7 @@ track RBC_ATACseq_Multiome_PROFILES_OVERLAY
 track RBC_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213569cf3e58132a47fb/display?to_ext=bigbed
 itemRgb on
-shortLabel RBC_ATACseq_e11.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster20 RBC_ATACseq_e11.5_DevelopmentalStageTrack_PEAKS
 longLabel RBC_MACS2    
 type bigBed 3 +
 configurable on
@@ -138,7 +138,7 @@ color 111,178,228
 track RBC_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354bd01876cf944010/display?to_ext=bigbed
 itemRgb on
-shortLabel RBC_ATACseq_e10.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster20 RBC_ATACseq_e10.5_DevelopmentalStageTrack_PEAKS
 longLabel RBC_MACS2   
 type bigBed 3 +
 configurable on
@@ -148,7 +148,7 @@ color 220,162,55
 track RBC_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135132f4d94b7aedab0/display?to_ext=bigbed
 itemRgb on
-shortLabel RBC_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster20 RBC_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
 longLabel RBC_MACS2      
 type bigBed 3 +
 configurable on
