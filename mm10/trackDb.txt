@@ -21,8 +21,8 @@ track Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
         track Myeloid_cells_ATACseq_e09.5_Profile
         parent Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213501c399c172d73f48/display?to_ext=bigwig
-        shortLabel Cluster21 M_ATACseq_e09.5_DevelopmentalStageTrack_PROFILE
-        longLabel M_ATACseq_Javier.L.R_Multiome2022_e9.5_DevelopmentalStageTrack_Profile
+        shortLabel Cluster21 Extra-cardiac : (M)Myeloid_cells ATACseq_09.5 PROFILE
+        longLabel M_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
           
@@ -30,7 +30,7 @@ track Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
         track Myeloid_cells_ATACseq_e10.5_Profile
         parent Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135310d8b1beec28a58/display?to_ext=bigwig
-        shortLabel Cluster21 M_ATACseq_e10.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster21 Extra-cardiac : (M)Myeloid_cells ATACseq_10.5 PROFILE
         longLabel M_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
@@ -39,7 +39,7 @@ track Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
         track Myeloid_cells_ATACseq_e11.5_Profile
         parent Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ae3722508b5bb133/display?to_ext=bigwig
-        shortLabel Cluster21 M_ATACseq_e11.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster21 Extra-cardiac : (M)Myeloid_cells ATACseq_11.5 PROFILE
         longLabel M_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
