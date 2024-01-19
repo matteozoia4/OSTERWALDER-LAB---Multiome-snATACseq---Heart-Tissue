@@ -1432,36 +1432,6 @@ configurable on
 visibility dense
 color 70,156,118
 
-track aCM_ATACseq_e09.5_Peaks
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135deff2d3662fa4052/display?to_ext=bigbed
-itemRgb on
-shortLabel Cluster 02 - Cardiac : (aCM)Atrial-cardiomyocytes e09.5 PEAKS
-longLabel aCM_MACS2      
-type bigBed 3 +
-configurable on
-visibility dense
-color 70,156,118
-
-track aCM_ATACseq_e10.5_Peaks
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135154630f18361ce48/display?to_ext=bigbed
-itemRgb on
-shortLabel Cluster 02 - Cardiac : (aCM)Atrial-cardiomyocytes e10.5 PEAKS
-longLabel aCM_MACS2   
-type bigBed 3 +
-configurable on
-visibility dense
-color 220,162,55
-
-track aCM_ATACseq_e11.5_Peaks
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e2064d00430c9075/display?to_ext=bigbed
-itemRgb on
-shortLabel Cluster 02 - Cardiac : (aCM)Atrial-cardiomyocytes e11.5 PEAKS
-longLabel aCM_MACS2    
-type bigBed 3 +
-configurable on
-visibility dense
-color 111,178,228 
-
 track aCM_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
     shortLabel Cluster 02 - Cardiac : (aCM)Atrial-cardiomyocytes PROFILES-OVERLAY
@@ -1507,32 +1477,32 @@ track aCM_ATACseq_Multiome_PROFILES_OVERLAY
         longLabel aCM_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
-      
-track vCM_ATACseq_e09.5_Peaks
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213518af3cf1c00b04c1/display?to_ext=bigbed
+
+track aCM_ATACseq_e09.5_Peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135deff2d3662fa4052/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 01 - Cardiac : (vCM)Ventricular_cardiomyocytes e09.5 PEAKS
-longLabel vCM_MACS2      
+shortLabel Cluster 02 - Cardiac : (aCM)Atrial-cardiomyocytes e09.5 PEAKS
+longLabel aCM_MACS2      
 type bigBed 3 +
 configurable on
 visibility dense
 color 70,156,118
 
-track vCM_ATACseq_e10.5_Peaks
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357d0fc78db796c066/display?to_ext=bigbed
+track aCM_ATACseq_e10.5_Peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135154630f18361ce48/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 01 - Cardiac : (vCM)Ventricular_cardiomyocytes e10.5 PEAKS
-longLabel vCM_MACS2   
+shortLabel Cluster 02 - Cardiac : (aCM)Atrial-cardiomyocytes e10.5 PEAKS
+longLabel aCM_MACS2   
 type bigBed 3 +
 configurable on
 visibility dense
 color 220,162,55
 
-track vCM_ATACseq_e11.5_Peaks
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b24d374d1d00a303/display?to_ext=bigbed
+track aCM_ATACseq_e11.5_Peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e2064d00430c9075/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 01 - Cardiac : (vCM)Ventricular_cardiomyocytes e11.5 PEAKS
-longLabel vCM_MACS2    
+shortLabel Cluster 02 - Cardiac : (aCM)Atrial-cardiomyocytes e11.5 PEAKS
+longLabel aCM_MACS2    
 type bigBed 3 +
 configurable on
 visibility dense
@@ -1583,5 +1553,37 @@ track vCM_ATACseq_Multiome_PROFILES_OVERLAY
         longLabel vCM_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
+
+track vCM_ATACseq_e09.5_Peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213518af3cf1c00b04c1/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 01 - Cardiac : (vCM)Ventricular_cardiomyocytes e09.5 PEAKS
+longLabel vCM_MACS2      
+type bigBed 3 +
+configurable on
+visibility dense
+color 70,156,118
+
+track vCM_ATACseq_e10.5_Peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357d0fc78db796c066/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 01 - Cardiac : (vCM)Ventricular_cardiomyocytes e10.5 PEAKS
+longLabel vCM_MACS2   
+type bigBed 3 +
+configurable on
+visibility dense
+color 220,162,55
+
+track vCM_ATACseq_e11.5_Peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b24d374d1d00a303/display?to_ext=bigbed
+itemRgb on
+shortLabel Cluster 01 - Cardiac : (vCM)Ventricular_cardiomyocytes e11.5 PEAKS
+longLabel vCM_MACS2    
+type bigBed 3 +
+configurable on
+visibility dense
+color 111,178,228 
+
+
 
 
