@@ -1,6 +1,6 @@
 track Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel Cluster21 Extra-cardiac : (M)Myeloid-cells ATACseq PROFILES-OVERLAY
+    shortLabel Cluster21 Extra-cardiac : (M)Myeloid-cells PROFILES-OVERLAY
     longLabel M_MACS2  
     type bigWig 0 30000
     configurable on
