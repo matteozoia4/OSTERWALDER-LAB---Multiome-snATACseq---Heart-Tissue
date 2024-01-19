@@ -1,4 +1,4 @@
-track Cluster21 M_ATACseq_Multiome_PROFILES_OVERLAY
+track M_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
     shortLabel Cluster21 M_ATACseq_DevelopmentalStages_PROFILES_OVERLAY
     longLabel M_MACS2  
@@ -18,8 +18,8 @@ track Cluster21 M_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track Cluster21 M_ATACseq_e09.5_Profile
-        parent Cluster21 M_ATACseq_Multiome_PROFILES_OVERLAY
+        track M_ATACseq_e09.5_Profile
+        parent M_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213501c399c172d73f48/display?to_ext=bigwig
         shortLabel Cluster21 M_ATACseq_e09.5_DevelopmentalStageTrack_PROFILE
         longLabel M_ATACseq_Javier.L.R_Multiome2022_e9.5_DevelopmentalStageTrack_Profile
@@ -27,8 +27,8 @@ track Cluster21 M_ATACseq_Multiome_PROFILES_OVERLAY
         color 70,156,118
           
 
-        track Cluster21 M_ATACseq_e10.5_Profile
-        parent Cluster21 M_ATACseq_Multiome_PROFILES_OVERLAY
+        track M_ATACseq_e10.5_Profile
+        parent M_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135310d8b1beec28a58/display?to_ext=bigwig
         shortLabel Cluster21 M_ATACseq_e10.5_DevelopmentalStageTrack_PROFILE
         longLabel M_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
@@ -36,8 +36,8 @@ track Cluster21 M_ATACseq_Multiome_PROFILES_OVERLAY
         color 220,162,55
 
 
-        track Cluster21 M_ATACseq_e11.5_Profile
-        parent Cluster21 M_ATACseq_Multiome_PROFILES_OVERLAY
+        track M_ATACseq_e11.5_Profile
+        parent M_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ae3722508b5bb133/display?to_ext=bigwig
         shortLabel Cluster21 M_ATACseq_e11.5_DevelopmentalStageTrack_PROFILE
         longLabel M_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
@@ -46,30 +46,30 @@ track Cluster21 M_ATACseq_Multiome_PROFILES_OVERLAY
 
 
 
-track M_ATACseq_e11.5_Peaks
+track Cluster21 M_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ed926e07234e7f4f/display?to_ext=bigbed
 itemRgb on
-shortLabel M_ATACseq_e11.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster21 M_ATACseq_e11.5_DevelopmentalStageTrack_PEAKS
 longLabel M_MACS2    
 type bigBed 3 +
 configurable on
 visibility dense
 color 111,178,228       
 
-track M_ATACseq_e10.5_Peaks
+track Cluster21 M_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c8201c3f6ca32ddd/display?to_ext=bigbed
 itemRgb on
-shortLabel M_ATACseq_e10.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster21 M_ATACseq_e10.5_DevelopmentalStageTrack_PEAKS
 longLabel M_MACS2   
 type bigBed 3 +
 configurable on
 visibility dense
 color 220,162,55
 
-track M_ATACseq_e09.5_Peaks
+track Cluster21 M_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135abf0651e459fb897/display?to_ext=bigbed
 itemRgb on
-shortLabel M_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster21 M_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
 longLabel M_MACS2      
 type bigBed 3 +
 configurable on
@@ -77,9 +77,9 @@ visibility dense
 color 70,156,118
 
 
-track 20_RBC_ATACseq_Multiome_PROFILES_OVERLAY
+track RBC_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel RBC_ATACseq_DevelopmentalStages_PROFILES_OVERLAY
+    shortLabel Cluster20 RBC_ATACseq_DevelopmentalStages_PROFILES_OVERLAY
     longLabel RBC_MACS2  
     type bigWig 0 30000
     configurable on
@@ -98,27 +98,27 @@ track 20_RBC_ATACseq_Multiome_PROFILES_OVERLAY
     
     
         track RBC_ATACseq_e09.5_Profile
-        parent 20_RBC_ATACseq_Multiome_PROFILES_OVERLAY
+        parent RBC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c0fee8a82362534e/display?to_ext=bigwig
-        shortLabel RBC_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster20 RBC_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
         longLabel RBC_ATACseq_Javier.L.R_Multiome2022_e9.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
           
 
         track RBC_ATACseq_e10.5_Profile
-        parent 20_RBC_ATACseq_Multiome_PROFILES_OVERLAY
+        parent RBC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356adddf0646343301/display?to_ext=bigwig
-        shortLabel RBC_ATACseq_e10.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster20 RBC_ATACseq_e10.5_DevelopmentalStageTrack_PROFILE
         longLabel RBC_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
 
 
         track RBC_ATACseq_e11.5_Profile
-        parent 20_RBC_ATACseq_Multiome_PROFILES_OVERLAY
+        parent RBC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721350cec0b5c5213db61/display?to_ext=bigwig
-        shortLabel RBC_ATACseq_e11.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster20 RBC_ATACseq_e11.5_DevelopmentalStageTrack_PROFILE
         longLabel RBC_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
