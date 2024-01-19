@@ -6,7 +6,7 @@ track Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:20
+    viewLimits 0:5
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
     aggregate transparentOverlay
@@ -459,7 +459,7 @@ track PaM_ATACseq_Multiome_PROFILES_OVERLAY
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:20
+    viewLimits 0:5
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
     aggregate transparentOverlay
@@ -538,7 +538,7 @@ track PE_ATACseq_Multiome_PROFILES_OVERLAY
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:20
+    viewLimits 0:5
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
     aggregate transparentOverlay
@@ -1067,7 +1067,7 @@ track PM_ATACseq_Multiome_PROFILES_OVERLAY
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:20
+    viewLimits 0:5
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
     aggregate transparentOverlay
