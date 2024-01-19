@@ -21,7 +21,7 @@ track Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
         track Myeloid_cells_ATACseq_e09.5_Profile
         parent Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213501c399c172d73f48/display?to_ext=bigwig
-        shortLabel Cluster21 - Extra-cardiac : (M)Myeloid-cells ATACseq_09.5 PROFILE
+        shortLabel Cluster21 - Extra-cardiac : (M)Myeloid-cells 09.5 PROFILE
         longLabel M_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
@@ -30,7 +30,7 @@ track Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
         track Myeloid_cells_ATACseq_e10.5_Profile
         parent Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135310d8b1beec28a58/display?to_ext=bigwig
-        shortLabel Cluster21 - Extra-cardiac : (M)Myeloid-cells ATACseq_10.5 PROFILE
+        shortLabel Cluster21 - Extra-cardiac : (M)Myeloid-cells e10.5 PROFILE
         longLabel M_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
@@ -39,7 +39,7 @@ track Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
         track Myeloid_cells_ATACseq_e11.5_Profile
         parent Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ae3722508b5bb133/display?to_ext=bigwig
-        shortLabel Cluster21 - Extra-cardiac : (M)Myeloid-cells ATACseq_11.5 PROFILE
+        shortLabel Cluster21 - Extra-cardiac : (M)Myeloid-cells e11.5 PROFILE
         longLabel M_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
@@ -286,7 +286,7 @@ track TP_ATACseq_Multiome_PROFILES_OVERLAY
 track TP_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358144eb8ed5bf4a25/display?to_ext=bigbed
 itemRgb on
-shortLabel TP_ATACseq_e11.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster18 - Extra-cardiac : (TP)Thyroid-Primordium e11.5 PEAKS
 longLabel TP_MACS2    
 type bigBed 3 +
 configurable on
@@ -296,7 +296,7 @@ color 111,178,228
 track TP_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c8d5adaf10c9dbe9/display?to_ext=bigbed
 itemRgb on
-shortLabel TP_ATACseq_e10.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster18 - Extra-cardiac : (TP)Thyroid-Primordium e10.5 PEAKS
 longLabel TP_MACS2   
 type bigBed 3 +
 configurable on
@@ -306,7 +306,7 @@ color 220,162,55
 track TP_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a32cd433857e4e86/display?to_ext=bigbed
 itemRgb on
-shortLabel TP_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster18 - Extra-cardiac : (TP)Thyroid-Primordium e09.5 PEAKS
 longLabel TP_MACS2      
 type bigBed 3 +
 configurable on
