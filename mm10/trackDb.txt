@@ -79,7 +79,7 @@ color 70,156,118
 
 track RBC_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel Cluster 20 - Extra-cardiac : (RBC)Red-blood-cells PROFILES_OVERLAY
+    shortLabel Cluster 20 - Extra-cardiac : (RBC)Red-blood-cells PROFILES-OVERLAY
     longLabel RBC_MACS2  
     type bigWig 0 30000
     configurable on
@@ -316,7 +316,7 @@ color 70,156,118
 
 track PA_endo_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel Cluster 17 - Extra-cardiac : (PA_endo)Pharyngeal-arch-endoderm PROFILES_OVERLAY
+    shortLabel Cluster 17 - Extra-cardiac : (PA_endo)Pharyngeal-arch-endoderm PROFILES-OVERLAY
     longLabel PA_endo_MACS2  
     type bigWig 0 30000
     configurable on
@@ -745,7 +745,7 @@ color 70,156,118
 
 track EndMT_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel Cluster 11 - Cardiac : (EndMT)Endocardial-to-mesenchymal-transition PROFILES_OVERLAY
+    shortLabel Cluster 11 - Cardiac : (EndMT)Endocardial-to-mesenchymal-transition PROFILES-OVERLAY
     longLabel EndMT_MACS2  
     type bigWig 0 30000
     configurable on
@@ -982,7 +982,7 @@ color 70,156,118
 
 track cNCC_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel Cluster 08 - Cardiac : (cNCC)Cardiac-neural-crest PROFILES_OVERLAY
+    shortLabel Cluster 08 - Cardiac : (cNCC)Cardiac-neural-crest PROFILES-OVERLAY
     longLabel cNCC_MACS2  
     type bigWig 0 30000
     configurable on
@@ -1277,7 +1277,7 @@ color 70,156,118
 
 track SV_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel Cluster 04 - Cardiac : (SV)Sinus-venosus PROFILES_OVERLAY
+    shortLabel Cluster 04 - Cardiac : (SV)Sinus-venosus PROFILES-OVERLAY
     longLabel SV_MACS2  
     type bigWig 0 30000
     configurable on
@@ -1356,7 +1356,7 @@ color 70,156,118
 
 track AVC_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel Cluster 03 - Cardiac : (AVC)Atrio-ventricular-canal PROFILES_OVERLAY
+    shortLabel Cluster 03 - Cardiac : (AVC)Atrio-ventricular-canal PROFILES-OVERLAY
     longLabel AVC_MACS2  
     type bigWig 0 30000
     configurable on
@@ -1510,7 +1510,7 @@ color 111,178,228
 
 track vCM_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel Cluster 01 - Cardiac : (vCM)Ventricular_cardiomyocytes PROFILES_OVERLAY
+    shortLabel Cluster 01 - Cardiac : (vCM)Ventricular_cardiomyocytes PROFILES-OVERLAY
     longLabel vCM_MACS2  
     type bigWig 0 30000
     configurable on
