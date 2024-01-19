@@ -49,7 +49,7 @@ track Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
 track Myeloid_cells_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ed926e07234e7f4f/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster21 : (M)Myeloid-cells e11.5 PEAKS
+shortLabel Cluster21 - Extra-cardiac : (M)Myeloid-cells e11.5 PEAKS
 longLabel M_MACS2    
 type bigBed 3 +
 configurable on
@@ -59,7 +59,7 @@ color 111,178,228
 track Myeloid_cells_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c8201c3f6ca32ddd/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster21 : (M)Myeloid-cells e10.5 PEAKS
+shortLabel Cluster21 - Extra-cardiac : (M)Myeloid-cells e10.5 PEAKS
 longLabel M_MACS2   
 type bigBed 3 +
 configurable on
@@ -69,7 +69,7 @@ color 220,162,55
 track Myeloid_cells_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135abf0651e459fb897/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster21 : (M)Myeloid-cells e09.5 PEAKS
+shortLabel Cluster21 - Extra-cardiac : (M)Myeloid-cells e09.5 PEAKS
 longLabel M_MACS2      
 type bigBed 3 +
 configurable on
