@@ -9,7 +9,7 @@ track Myeloid_cells_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:5
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate Stacked
+    aggregate stackedOverlay
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
