@@ -532,7 +532,7 @@ color 70,156,118
 
 track PE_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel Cluster 14 - Extra-cardiac : (PM)Pulmonary-endoderm PROFILES-OVERLAY
+    shortLabel Cluster 14 - Extra-cardiac : (PE)Pulmonary-endoderm PROFILES-OVERLAY
     longLabel PE_MACS2  
     type bigWig 0 30000
     configurable on
@@ -553,7 +553,7 @@ track PE_ATACseq_Multiome_PROFILES_OVERLAY
         track PE_ATACseq_e09.5_Profile
         parent PE_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c0f6a481c0a336e6/display?to_ext=bigwig
-        shortLabel Cluster 14 - Extra-cardiac : (PM)Pulmonary-endoderm e09.5 PROFILE
+        shortLabel Cluster 14 - Extra-cardiac : (PE)Pulmonary-endoderm e09.5 PROFILE
         longLabel PE_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
@@ -562,7 +562,7 @@ track PE_ATACseq_Multiome_PROFILES_OVERLAY
         track PE_ATACseq_e10.5_Profile
         parent PE_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357d052d7d4820c125/display?to_ext=bigwig
-        shortLabel Cluster 14 - Extra-cardiac : (PM)Pulmonary-endoderm e10.5 PROFILE
+        shortLabel Cluster 14 - Extra-cardiac : (PE)Pulmonary-endoderm e10.5 PROFILE
         longLabel PE_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
@@ -571,7 +571,7 @@ track PE_ATACseq_Multiome_PROFILES_OVERLAY
         track PE_ATACseq_e11.5_Profile
         parent PE_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135bfee091242eb10ba/display?to_ext=bigwig
-        shortLabel Cluster 14 - Extra-cardiac : (PM)Pulmonary-endoderm e11.5 PROFILE
+        shortLabel Cluster 14 - Extra-cardiac : (PE)Pulmonary-endoderm e11.5 PROFILE
         longLabel PE_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
@@ -581,7 +581,7 @@ track PE_ATACseq_Multiome_PROFILES_OVERLAY
 track PE_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355638aa1eda24aec3/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 14 - Extra-cardiac : (PM)Pulmonary-endoderm e11.5 PEAKS
+shortLabel Cluster 14 - Extra-cardiac : (PE)Pulmonary-endoderm e11.5 PEAKS
 longLabel PE_MACS2    
 type bigBed 3 +
 configurable on
@@ -591,7 +591,7 @@ color 111,178,228
 track PE_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721350b435cc4187ff6f4/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 14 - Extra-cardiac : (PM)Pulmonary-endoderm e10.5 PEAKS
+shortLabel Cluster 14 - Extra-cardiac : (PE)Pulmonary-endoderm e10.5 PEAKS
 longLabel PE_MACS2   
 type bigBed 3 +
 configurable on
@@ -601,7 +601,7 @@ color 220,162,55
 track PE_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135644b65aaec9fb4d9/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 14 - Extra-cardiac : (PM)Pulmonary-endoderm e09.5 PEAKS
+shortLabel Cluster 14 - Extra-cardiac : (PE)Pulmonary-endoderm e09.5 PEAKS
 longLabel PE_MACS2      
 type bigBed 3 +
 configurable on
