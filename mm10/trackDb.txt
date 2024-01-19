@@ -824,7 +824,7 @@ color 70,156,118
 
 track EC_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel EC_ATACseq_DevelopmentalStages_PROFILES_OVERLAY
+    shortLabel Cluster10 - Cardiac : (EC)Endocardial-cells PROFILES-OVERLAY
     longLabel EC_MACS2  
     type bigWig 0 30000
     configurable on
@@ -845,7 +845,7 @@ track EC_ATACseq_Multiome_PROFILES_OVERLAY
         track EC_ATACseq_e09.5_Profile
         parent EC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a5d3e4a5c30aa581/display?to_ext=bigwig
-        shortLabel EC_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster10 - Cardiac : (EC)Endocardial-cells e09.5 PROFILE
         longLabel EC_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
@@ -854,7 +854,7 @@ track EC_ATACseq_Multiome_PROFILES_OVERLAY
         track EC_ATACseq_e10.5_Profile
         parent EC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f137c1db824a54d0/display?to_ext=bigwig
-        shortLabel EC_ATACseq_e10.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster10 - Cardiac : (EC)Endocardial-cells e10.5 PROFILE
         longLabel EC_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
@@ -863,7 +863,7 @@ track EC_ATACseq_Multiome_PROFILES_OVERLAY
         track EC_ATACseq_e11.5_Profile
         parent EC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d95bae656febe171/display?to_ext=bigwig
-        shortLabel EC_ATACseq_e11.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster10 - Cardiac : (EC)Endocardial-cells e11.5 PROFILE
         longLabel EC_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
@@ -873,7 +873,7 @@ track EC_ATACseq_Multiome_PROFILES_OVERLAY
 track EC_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355b537948b4af0406/display?to_ext=bigbed
 itemRgb on
-shortLabel EC_ATACseq_e11.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster10 - Cardiac : (EC)Endocardial-cells e11.5 PEAKS
 longLabel EC_MACS2    
 type bigBed 3 +
 configurable on
@@ -883,7 +883,7 @@ color 111,178,228
 track EC_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356dbf4bf8364f2f01/display?to_ext=bigbed
 itemRgb on
-shortLabel EC_ATACseq_e10.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster10 - Cardiac : (EC)Endocardial-cells e10.5 PEAKS
 longLabel EC_MACS2   
 type bigBed 3 +
 configurable on
@@ -893,7 +893,7 @@ color 220,162,55
 track EC_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fdc40cd61928a508/display?to_ext=bigbed
 itemRgb on
-shortLabel EC_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster10 - Cardiac : (EC)Endocardial-cells e09.5 PEAKS
 longLabel EC_MACS2      
 type bigBed 3 +
 configurable on
@@ -903,7 +903,7 @@ color 70,156,118
 
 track VEC_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel VEC_ATACseq_DevelopmentalStages_PROFILES_OVERLAY
+    shortLabel Cluster09 - Cardiac : (VEC)Vascular-endothelial-cells PROFILES-OVERLAY
     longLabel VEC_MACS2  
     type bigWig 0 30000
     configurable on
@@ -924,7 +924,7 @@ track VEC_ATACseq_Multiome_PROFILES_OVERLAY
         track VEC_ATACseq_e09.5_Profile
         parent VEC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213538873b7dda74d471/display?to_ext=bigwig
-        shortLabel VEC_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster09 - Cardiac : (VEC)Vascular-endothelial-cells e09.5 PROFILE
         longLabel VEC_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
@@ -933,7 +933,7 @@ track VEC_ATACseq_Multiome_PROFILES_OVERLAY
         track VEC_ATACseq_e10.5_Profile
         parent VEC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135af02ba680925c87a/display?to_ext=bigwig
-        shortLabel VEC_ATACseq_e10.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster09 - Cardiac : (VEC)Vascular-endothelial-cells e10.5 PROFILE
         longLabel VEC_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
@@ -942,7 +942,7 @@ track VEC_ATACseq_Multiome_PROFILES_OVERLAY
         track VEC_ATACseq_e11.5_Profile
         parent VEC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d7335d6a98ced63b/display?to_ext=bigwig
-        shortLabel VEC_ATACseq_e11.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster09 - Cardiac : (VEC)Vascular-endothelial-cells e11.5 PROFILE
         longLabel VEC_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
@@ -952,7 +952,7 @@ track VEC_ATACseq_Multiome_PROFILES_OVERLAY
 track VEC_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213507d0dfd5fcf95ea2/display?to_ext=bigbed
 itemRgb on
-shortLabel VEC_ATACseq_e11.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster09 - Cardiac : (VEC)Vascular-endothelial-cells e11.5 PEAKS
 longLabel VEC_MACS2    
 type bigBed 3 +
 configurable on
@@ -962,7 +962,7 @@ color 111,178,228
 track VEC_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f44bf93420e428f9/display?to_ext=bigbed
 itemRgb on
-shortLabel VEC_ATACseq_e10.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster09 - Cardiac : (VEC)Vascular-endothelial-cells e10.5 PEAKS
 longLabel VEC_MACS2   
 type bigBed 3 +
 configurable on
@@ -972,7 +972,7 @@ color 220,162,55
 track VEC_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ef4450aca5f7ba17/display?to_ext=bigbed
 itemRgb on
-shortLabel VEC_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster09 - Cardiac : (VEC)Vascular-endothelial-cells e09.5 PEAKS
 longLabel VEC_MACS2      
 type bigBed 3 +
 configurable on
@@ -982,7 +982,7 @@ color 70,156,118
 
 track cNCC_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel cNCC_ATACseq_DevelopmentalStages_PROFILES_OVERLAY
+    shortLabel Cluster08 - Cardiac : (cNCC)Cardiac-neural-crest-cells PROFILES_OVERLAY
     longLabel cNCC_MACS2  
     type bigWig 0 30000
     configurable on
@@ -1003,7 +1003,7 @@ track cNCC_ATACseq_Multiome_PROFILES_OVERLAY
         track cNCC_ATACseq_e09.5_Profile
         parent cNCC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c8d483c13ca4ace8/display?to_ext=bigwig
-        shortLabel cNCC_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster08 - Cardiac : (cNCC)Cardiac-neural-crest-cells e09.5 PROFILE
         longLabel cNCC_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
@@ -1012,7 +1012,7 @@ track cNCC_ATACseq_Multiome_PROFILES_OVERLAY
         track cNCC_ATACseq_e10.5_Profile
         parent cNCC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213511d4c737fdeee2a5/display?to_ext=bigwig
-        shortLabel cNCC_ATACseq_e10.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster08 - Cardiac : (cNCC)Cardiac-neural-crest-cells e10.5 PROFILE
         longLabel cNCC_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
@@ -1021,7 +1021,7 @@ track cNCC_ATACseq_Multiome_PROFILES_OVERLAY
         track cNCC_ATACseq_e11.5_Profile
         parent cNCC_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213509041159e1dcff57/display?to_ext=bigwig
-        shortLabel cNCC_ATACseq_e11.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster08 - Cardiac : (cNCC)Cardiac-neural-crest-cells e11.5 PROFILE
         longLabel cNCC_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
@@ -1031,7 +1031,7 @@ track cNCC_ATACseq_Multiome_PROFILES_OVERLAY
 track cNCC_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ecf107962a95f7a1/display?to_ext=bigbed
 itemRgb on
-shortLabel cNCC_ATACseq_e11.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster08 - Cardiac : (cNCC)Cardiac-neural-crest-cells e11.5 PEAKS
 longLabel cNCC_MACS2    
 type bigBed 3 +
 configurable on
@@ -1041,7 +1041,7 @@ color 111,178,228
 track cNCC_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135154630f18361ce48/display?to_ext=bigbed
 itemRgb on
-shortLabel cNCC_ATACseq_e10.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster08 - Cardiac : (cNCC)Cardiac-neural-crest-cells e10.5 PEAKS
 longLabel cNCC_MACS2   
 type bigBed 3 +
 configurable on
@@ -1051,7 +1051,7 @@ color 220,162,55
 track cNCC_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135aed74a6dc19a5c0f/display?to_ext=bigbed
 itemRgb on
-shortLabel cNCC_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster08 - Cardiac : (cNCC)Cardiac-neural-crest-cells e09.5 PEAKS
 longLabel cNCC_MACS2      
 type bigBed 3 +
 configurable on
@@ -1061,7 +1061,7 @@ color 70,156,118
 
 track PM_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel PM_ATACseq_DevelopmentalStages_PROFILES_OVERLAY
+    shortLabel Cluster07 - Extra-cardiac : (PM)Pharyngeal-mesenchyme PROFILES-OVERLAY
     longLabel PM_MACS2  
     type bigWig 0 30000
     configurable on
@@ -1082,7 +1082,7 @@ track PM_ATACseq_Multiome_PROFILES_OVERLAY
         track PM_ATACseq_e09.5_Profile
         parent PM_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c40e3aaa3cdb6e7c/display?to_ext=bigwig
-        shortLabel PM_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster07 - Extra-cardiac : (PM)Pharyngeal-mesenchyme e09.5 PROFILE
         longLabel PM_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
@@ -1091,7 +1091,7 @@ track PM_ATACseq_Multiome_PROFILES_OVERLAY
         track PM_ATACseq_e10.5_Profile
         parent PM_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135bc618e97326cc83d/display?to_ext=bigwig
-        shortLabel PM_ATACseq_e10.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster07 - Extra-cardiac : (PM)Pharyngeal-mesenchyme e10.5 PROFILE
         longLabel PM_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
@@ -1099,7 +1099,7 @@ track PM_ATACseq_Multiome_PROFILES_OVERLAY
 track PM_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ab20a6d539661bce/display?to_ext=bigbed
 itemRgb on
-shortLabel PM_ATACseq_e10.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster07 - Extra-cardiac : (PM)Pharyngeal-mesenchyme e10.5 PEAKS
 longLabel PM_MACS2   
 type bigBed 3 +
 configurable on
@@ -1109,7 +1109,7 @@ color 220,162,55
 track PM_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135eff449b99c96fa7b/display?to_ext=bigbed
 itemRgb on
-shortLabel PM_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster07 - Extra-cardiac : (PM)Pharyngeal-mesenchyme e09.5 PEAKS
 longLabel PM_MACS2      
 type bigBed 3 +
 configurable on
@@ -1119,7 +1119,7 @@ color 70,156,118
 
 track OFT_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel OFT_ATACseq_DevelopmentalStages_PROFILES_OVERLAY
+    shortLabel Cluster06 - Cardiac : (OFT)Out-flow-track-cells PROFILES-OVERLAY
     longLabel OFT_MACS2  
     type bigWig 0 30000
     configurable on
@@ -1140,7 +1140,7 @@ track OFT_ATACseq_Multiome_PROFILES_OVERLAY
         track OFT_ATACseq_e09.5_Profile
         parent OFT_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135993b550e0fea1eaf/display?to_ext=bigwig
-        shortLabel OFT_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster06 - Cardiac : (OFT)Out-flow-track-cells e09.5 PROFILE
         longLabel OFT_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
@@ -1149,7 +1149,7 @@ track OFT_ATACseq_Multiome_PROFILES_OVERLAY
         track OFT_ATACseq_e10.5_Profile
         parent OFT_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e0561e410b7fe2ac/display?to_ext=bigwig
-        shortLabel OFT_ATACseq_e10.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster06 - Cardiac : (OFT)Out-flow-track-cells e10.5 PROFILE
         longLabel OFT_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
@@ -1158,7 +1158,7 @@ track OFT_ATACseq_Multiome_PROFILES_OVERLAY
         track OFT_ATACseq_e11.5_Profile
         parent OFT_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358af410ffa6dee37e/display?to_ext=bigwig
-        shortLabel OFT_ATACseq_e11.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster06 - Cardiac : (OFT)Out-flow-track-cells e11.5 PROFILE
         longLabel OFT_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
@@ -1168,7 +1168,7 @@ track OFT_ATACseq_Multiome_PROFILES_OVERLAY
 track OFT_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c6de8bf50957b3bf/display?to_ext=bigbed
 itemRgb on
-shortLabel OFT_ATACseq_e11.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster06 - Cardiac : (OFT)Out-flow-track-cells e09.5 PEAKS
 longLabel OFT_MACS2    
 type bigBed 3 +
 configurable on
@@ -1178,7 +1178,7 @@ color 111,178,228
 track OFT_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135552661b389cd4f72/display?to_ext=bigbed
 itemRgb on
-shortLabel OFT_ATACseq_e10.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster06 - Cardiac : (OFT)Out-flow-track-cells e10.5 PEAKS
 longLabel OFT_MACS2   
 type bigBed 3 +
 configurable on
@@ -1188,7 +1188,7 @@ color 220,162,55
 track OFT_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135674cfb4cd8c27ffe/display?to_ext=bigbed
 itemRgb on
-shortLabel OFT_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster06 - Cardiac : (OFT)Out-flow-track-cells e09.5 PEAKS
 longLabel OFT_MACS2      
 type bigBed 3 +
 configurable on
@@ -1198,7 +1198,7 @@ color 70,156,118
 
 track pSHF_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel pSHF_ATACseq_DevelopmentalStages_PROFILES_OVERLAY
+    shortLabel Cluster05 - Cardiac : (pSHF)Posterior-second-heart-field-cells PROFILES-OVERLAY
     longLabel pSHF_MACS2  
     type bigWig 0 30000
     configurable on
@@ -1219,7 +1219,7 @@ track pSHF_ATACseq_Multiome_PROFILES_OVERLAY
         track pSHF_ATACseq_e09.5_Profile
         parent pSHF_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135899689a4286eba9b/display?to_ext=bigwig
-        shortLabel pSHF_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster05 - Cardiac : (pSHF)Posterior-second-heart-field-cells e09.5 PROFILE
         longLabel pSHF_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
@@ -1228,7 +1228,7 @@ track pSHF_ATACseq_Multiome_PROFILES_OVERLAY
         track pSHF_ATACseq_e10.5_Profile
         parent pSHF_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135325d375d701f7578/display?to_ext=bigwig
-        shortLabel pSHF_ATACseq_e10.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster05 - Cardiac : (pSHF)Posterior-second-heart-field-cells e10.5 PROFILE
         longLabel pSHF_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
@@ -1237,7 +1237,7 @@ track pSHF_ATACseq_Multiome_PROFILES_OVERLAY
         track pSHF_ATACseq_e11.5_Profile
         parent pSHF_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d86c0a4f1219c12d/display?to_ext=bigwig
-        shortLabel pSHF_ATACseq_e11.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster05 - Cardiac : (pSHF)Posterior-second-heart-field-cells e11.5 PROFILE
         longLabel pSHF_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
@@ -1247,7 +1247,7 @@ track pSHF_ATACseq_Multiome_PROFILES_OVERLAY
 track pSHF_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213566d01fd459b275ff/display?to_ext=bigbed
 itemRgb on
-shortLabel pSHF_ATACseq_e11.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster05 - Cardiac : (pSHF)Posterior-second-heart-field-cells e11.5 PEAKS
 longLabel pSHF_MACS2    
 type bigBed 3 +
 configurable on
@@ -1257,7 +1257,7 @@ color 111,178,228
 track pSHF_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ef2dc324355a3d34/display?to_ext=bigbed
 itemRgb on
-shortLabel pSHF_ATACseq_e10.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster05 - Cardiac : (pSHF)Posterior-second-heart-field-cells e10.5 PEAKS
 longLabel pSHF_MACS2   
 type bigBed 3 +
 configurable on
@@ -1267,7 +1267,7 @@ color 220,162,55
 track pSHF_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721353e4cccf4b596f6dc/display?to_ext=bigbed
 itemRgb on
-shortLabel pSHF_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster05 - Cardiac : (pSHF)Posterior-second-heart-field-cells e09.5 PEAKS
 longLabel pSHF_MACS2      
 type bigBed 3 +
 configurable on
