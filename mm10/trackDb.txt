@@ -316,7 +316,7 @@ color 70,156,118
 
 track PA_endo_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel PA_endo_ATACseq_DevelopmentalStages_PROFILES_OVERLAY
+    shortLabel Cluster17 - Extra-cardiac : (PA_endo)Pharyngeal-Arch-Endoderm PROFILES_OVERLAY
     longLabel PA_endo_MACS2  
     type bigWig 0 30000
     configurable on
@@ -337,7 +337,7 @@ track PA_endo_ATACseq_Multiome_PROFILES_OVERLAY
         track PA_endo_ATACseq_e09.5_Profile
         parent PA_endo_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213574ce3413050bdc4a/display?to_ext=bigwig
-        shortLabel PA_endo_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster17 - Extra-cardiac : (PA_endo)Pharyngeal-Arch-Endoderm e09.5 PROFILE
         longLabel PA_endo_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
@@ -346,7 +346,7 @@ track PA_endo_ATACseq_Multiome_PROFILES_OVERLAY
         track PA_endo_ATACseq_e10.5_Profile
         parent PA_endo_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213557be69db4314fb3e/display?to_ext=bigwig
-        shortLabel PA_endo_ATACseq_e10.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster17 - Extra-cardiac : (PA_endo)Pharyngeal-Arch-Endoderm e10.5 PROFILE
         longLabel PA_endo_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
@@ -355,7 +355,7 @@ track PA_endo_ATACseq_Multiome_PROFILES_OVERLAY
         track PA_endo_ATACseq_e11.5_Profile
         parent PA_endo_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135add626792237b8a4/display?to_ext=bigwig
-        shortLabel PA_endo_ATACseq_e11.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster17 - Extra-cardiac : (PA_endo)Pharyngeal-Arch-Endoderm e11.5 PROFILE
         longLabel PA_endo_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
@@ -365,7 +365,7 @@ track PA_endo_ATACseq_Multiome_PROFILES_OVERLAY
 track PA_endo_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ff6e6089601ee2b5/display?to_ext=bigbed
 itemRgb on
-shortLabel PA_endo_ATACseq_e11.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster17 - Extra-cardiac : (PA_endo)Pharyngeal-Arch-Endoderm e11.5 PEAKS
 longLabel PA_endo_MACS2    
 type bigBed 3 +
 configurable on
@@ -375,7 +375,7 @@ color 111,178,228
 track PA_endo_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135af219185b0aa7b51/display?to_ext=bigbed
 itemRgb on
-shortLabel PA_endo_ATACseq_e10.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster17 - Extra-cardiac : (PA_endo)Pharyngeal-Arch-Endoderm e10.5 PEAKS
 longLabel PA_endo_MACS2   
 type bigBed 3 +
 configurable on
@@ -385,7 +385,7 @@ color 220,162,55
 track PA_endo_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213519de3321ea24da23/display?to_ext=bigbed
 itemRgb on
-shortLabel PA_endo_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster17 - Extra-cardiac : (PA_endo)Pharyngeal-Arch-Endoderm e09.5 PEAKS
 longLabel PA_endo_MACS2      
 type bigBed 3 +
 configurable on
@@ -395,7 +395,7 @@ color 70,156,118
 
 track PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel PA_ecto_ATACseq_DevelopmentalStages_PROFILES_OVERLAY
+    shortLabel Cluster16 - Extra-cardiac : (PA_endo)Pharyngeal-Arch-Ectoderm PROFILES-OVERLAY
     longLabel PA_ecto_MACS2  
     type bigWig 0 30000
     configurable on
@@ -416,7 +416,7 @@ track PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
         track PA_ecto_ATACseq_e09.5_Profile
         parent PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354be62649e1356c0e/display?to_ext=bigwig
-        shortLabel PA_ecto_ATACseq_e9.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster16 - Extra-cardiac : (PA_endo)Pharyngeal-Arch-Ectoderm e09.5 PROFILE
         longLabel PA_ecto_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
@@ -425,7 +425,7 @@ track PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
         track PA_ecto_ATACseq_e10.5_Profile
         parent PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721353c7a0d583f852669/display?to_ext=bigwig
-        shortLabel PA_ecto_ATACseq_e10.5_DevelopmentalStageTrack_PROFILE
+        shortLabel Cluster16 - Extra-cardiac : (PA_endo)Pharyngeal-Arch-Ectoderm e10.5 PROFILE
         longLabel PA_ecto_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
@@ -433,7 +433,7 @@ track PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
 track PA_ecto_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357623e9ed70d61078/display?to_ext=bigbed
 itemRgb on
-shortLabel PA_ecto_ATACseq_e10.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster16 - Extra-cardiac : (PA_endo)Pharyngeal-Arch-Ectoderm e10.5 PEAKS
 longLabel PA_ecto_MACS2   
 type bigBed 3 +
 configurable on
@@ -443,7 +443,7 @@ color 220,162,55
 track PA_ecto_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135114e8c40a308ce30/display?to_ext=bigbed
 itemRgb on
-shortLabel PA_ecto_ATACseq_e9.5_DevelopmentalStageTrack_PEAKS
+shortLabel Cluster16 - Extra-cardiac : (PA_endo)Pharyngeal-Arch-Ectoderm e09.5 PEAKS
 longLabel PA_ecto_MACS2      
 type bigBed 3 +
 configurable on
