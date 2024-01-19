@@ -88,7 +88,7 @@ track RBC_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -167,7 +167,7 @@ track NCC_like_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -246,7 +246,7 @@ track TP_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -325,7 +325,7 @@ track PA_endo_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -404,7 +404,7 @@ track PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -462,7 +462,7 @@ track PaM_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:5
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -541,7 +541,7 @@ track PE_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:5
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -620,7 +620,7 @@ track FB_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -680,7 +680,7 @@ track EP_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -754,7 +754,7 @@ track EndMT_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -833,7 +833,7 @@ track EC_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -912,7 +912,7 @@ track VEC_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -991,7 +991,7 @@ track cNCC_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -1070,7 +1070,7 @@ track PM_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:5
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -1128,7 +1128,7 @@ track OFT_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -1207,7 +1207,7 @@ track pSHF_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -1286,7 +1286,7 @@ track SV_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -1365,7 +1365,7 @@ track AVC_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -1444,7 +1444,7 @@ track aCM_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
@@ -1552,7 +1552,7 @@ track vCM_ATACseq_Multiome_PROFILES_OVERLAY
     viewLimits 0:20
     viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
-    aggregate transparentOverlay
+    aggregate stacked
     showSubtrackColorOnUi on
     autoScale off
     smoothingWindow off
