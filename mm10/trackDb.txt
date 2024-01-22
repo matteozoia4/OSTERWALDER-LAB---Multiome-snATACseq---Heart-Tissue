@@ -853,7 +853,7 @@ track EC_ATACseq_Multiome_PROFILES_OVERLAY
 
         track EC_ATACseq_e10.5_Profile
         parent EC_ATACseq_Multiome_PROFILES_OVERLAY
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f137c1db824a54d0/display?to_ext=bigwig
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d95bae656febe171/display?to_ext=bigwig
         shortLabel Cluster 10 - Cardiac : (EC)Endocardial e10.5 PROFILE
         longLabel EC_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
@@ -862,7 +862,7 @@ track EC_ATACseq_Multiome_PROFILES_OVERLAY
 
         track EC_ATACseq_e11.5_Profile
         parent EC_ATACseq_Multiome_PROFILES_OVERLAY
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d95bae656febe171/display?to_ext=bigwig
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f137c1db824a54d0/display?to_ext=bigwig
         shortLabel Cluster 10 - Cardiac : (EC)Endocardial e11.5 PROFILE
         longLabel EC_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
