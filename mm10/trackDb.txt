@@ -822,10 +822,10 @@ visibility dense
 color 70,156,118
 
 
-track EC_ATACseq_Multiome_PROFILES_OVERLAY
+track EC-e-l_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel Cluster 10 - Cardiac : (EC)Endocardial PROFILES-OVERLAY
-    longLabel EC_MACS2  
+    shortLabel Cluster 10 - Cardiac : (EC-e-l)Endocardial-early-late PROFILES-OVERLAY
+    longLabel EC-e-l_MACS2  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -842,69 +842,69 @@ track EC_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track EC_ATACseq_e09.5_Profile
-        parent EC_ATACseq_Multiome_PROFILES_OVERLAY
+        track EC-e-l_ATACseq_e09.5_Profile
+        parent EC-e-l_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a5d3e4a5c30aa581/display?to_ext=bigwig
-        shortLabel Cluster 10 - Cardiac : (EC)Endocardial e09.5 PROFILE
-        longLabel EC_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
+        shortLabel Cluster 10 - Cardiac : (EC-e-l)Endocardial-early-late e09.5 PROFILE
+        longLabel EC-e-l_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
           
 
-        track EC_ATACseq_e10.5_Profile
-        parent EC_ATACseq_Multiome_PROFILES_OVERLAY
+        track EC-e-l_ATACseq_e10.5_Profile
+        parent EC-e-l_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d95bae656febe171/display?to_ext=bigwig
-        shortLabel Cluster 10 - Cardiac : (EC)Endocardial e10.5 PROFILE
-        longLabel EC_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
+        shortLabel Cluster 10 - Cardiac : (EC-e-l)Endocardial-early-late e10.5 PROFILE
+        longLabel EC-e-l_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
 
 
-        track EC_ATACseq_e11.5_Profile
-        parent EC_ATACseq_Multiome_PROFILES_OVERLAY
+        track EC-e-l_ATACseq_e11.5_Profile
+        parent EC-e-l_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f137c1db824a54d0/display?to_ext=bigwig
-        shortLabel Cluster 10 - Cardiac : (EC)Endocardial e11.5 PROFILE
-        longLabel EC_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
+        shortLabel Cluster 10 - Cardiac : (EC-e-l)Endocardial-early-late e11.5 PROFILE
+        longLabel EC-e-l_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
 
 
 
-track EC_ATACseq_e11.5_Peaks
+track EC-e-l_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355b537948b4af0406/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 10 - Cardiac : (EC)Endocardial e11.5 PEAKS
-longLabel EC_MACS2    
+shortLabel Cluster 10 - Cardiac : (EC-e-l)Endocardial-early-late e11.5 PEAKS
+longLabel EC-e-l_MACS2    
 type bigBed 3 +
 configurable on
 visibility dense
 color 111,178,228       
 
-track EC_ATACseq_e10.5_Peaks
+track EC-e-l_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356dbf4bf8364f2f01/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 10 - Cardiac : (EC)Endocardial e10.5 PEAKS
-longLabel EC_MACS2   
+shortLabel Cluster 10 - Cardiac : (EC-e-l)Endocardial-early-late e10.5 PEAKS
+longLabel EC-e-l_MACS2   
 type bigBed 3 +
 configurable on
 visibility dense
 color 220,162,55
 
-track EC_ATACseq_e09.5_Peaks
+track EC-e-l_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fdc40cd61928a508/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 10 - Cardiac : (EC)Endocardial e09.5 PEAKS
-longLabel EC_MACS2      
+shortLabel Cluster 10 - Cardiac : (EC-e-l)Endocardial-early-late e09.5 PEAKS
+longLabel EC-e-l_MACS2      
 type bigBed 3 +
 configurable on
 visibility dense
 color 70,156,118
 
 
-track VEC_ATACseq_Multiome_PROFILES_OVERLAY
+track VEC-e-l_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
     shortLabel Cluster 09 - Cardiac : (VEC)Vascular-endothelial PROFILES-OVERLAY
-    longLabel VEC_MACS2  
+    longLabel VEC-e-l_MACS2  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -921,59 +921,59 @@ track VEC_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track VEC_ATACseq_e09.5_Profile
-        parent VEC_ATACseq_Multiome_PROFILES_OVERLAY
+        track VEC-e-l_ATACseq_e09.5_Profile
+        parent VEC-e-l_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213538873b7dda74d471/display?to_ext=bigwig
         shortLabel Cluster 09 - Cardiac : (VEC)Vascular-endothelial e09.5 PROFILE
-        longLabel VEC_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
+        longLabel VEC-e-l_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
           
 
-        track VEC_ATACseq_e10.5_Profile
-        parent VEC_ATACseq_Multiome_PROFILES_OVERLAY
+        track VEC-e-l_ATACseq_e10.5_Profile
+        parent VEC-e-l_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135af02ba680925c87a/display?to_ext=bigwig
         shortLabel Cluster 09 - Cardiac : (VEC)Vascular-endothelial e10.5 PROFILE
-        longLabel VEC_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
+        longLabel VEC-e-l_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
 
 
-        track VEC_ATACseq_e11.5_Profile
-        parent VEC_ATACseq_Multiome_PROFILES_OVERLAY
+        track VEC-e-l_ATACseq_e11.5_Profile
+        parent VEC-e-l_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d7335d6a98ced63b/display?to_ext=bigwig
         shortLabel Cluster 09 - Cardiac : (VEC)Vascular-endothelial e11.5 PROFILE
-        longLabel VEC_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
+        longLabel VEC-e-l_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
 
 
 
-track VEC_ATACseq_e11.5_Peaks
+track VEC-e-l_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213507d0dfd5fcf95ea2/display?to_ext=bigbed
 itemRgb on
 shortLabel Cluster 09 - Cardiac : (VEC)Vascular-endothelial e11.5 PEAKS
-longLabel VEC_MACS2    
+longLabel VEC-e-l_MACS2    
 type bigBed 3 +
 configurable on
 visibility dense
 color 111,178,228       
 
-track VEC_ATACseq_e10.5_Peaks
+track VEC-e-l_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f44bf93420e428f9/display?to_ext=bigbed
 itemRgb on
 shortLabel Cluster 09 - Cardiac : (VEC)Vascular-endothelial e10.5 PEAKS
-longLabel VEC_MACS2   
+longLabel VEC-e-l_MACS2   
 type bigBed 3 +
 configurable on
 visibility dense
 color 220,162,55
 
-track VEC_ATACseq_e09.5_Peaks
+track VEC-e-l_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ef4450aca5f7ba17/display?to_ext=bigbed
 itemRgb on
 shortLabel Cluster 09 - Cardiac : (VEC)Vascular-endothelial e09.5 PEAKS
-longLabel VEC_MACS2      
+longLabel VEC-e-l_MACS2      
 type bigBed 3 +
 configurable on
 visibility dense
@@ -1059,10 +1059,10 @@ visibility dense
 color 70,156,118
 
 
-track PM_ATACseq_Multiome_PROFILES_OVERLAY
+track CPM-OFT_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel Cluster 07 - Extra-cardiac : (PM)Pharyngeal-mesenchyme PROFILES-OVERLAY
-    longLabel PM_MACS2  
+    shortLabel Cluster 07 - Extra-cardiac : (CPM-OFT)Cardiopharyngeal-mesenchyme-Out-flow-track PROFILES-OVERLAY
+    longLabel CPM-OFT_MACS2  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -1079,48 +1079,48 @@ track PM_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track PM_ATACseq_e09.5_Profile
-        parent PM_ATACseq_Multiome_PROFILES_OVERLAY
+        track CPM-OFT_ATACseq_e09.5_Profile
+        parent CPM-OFT_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c40e3aaa3cdb6e7c/display?to_ext=bigwig
-        shortLabel Cluster 07 - Extra-cardiac : (PM)Pharyngeal-mesenchyme e09.5 PROFILE
-        longLabel PM_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
+        shortLabel Cluster 07 - Extra-cardiac : (CPM-OFT)Cardiopharyngeal-mesenchyme-Out-flow-track e09.5 PROFILE
+        longLabel CPM-OFT_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
           
 
-        track PM_ATACseq_e10.5_Profile
-        parent PM_ATACseq_Multiome_PROFILES_OVERLAY
+        track CPM-OFT_ATACseq_e10.5_Profile
+        parent CPM-OFT_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135bc618e97326cc83d/display?to_ext=bigwig
-        shortLabel Cluster 07 - Extra-cardiac : (PM)Pharyngeal-mesenchyme e10.5 PROFILE
-        longLabel PM_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
+        shortLabel Cluster 07 - Extra-cardiac : (CPM-OFT)Cardiopharyngeal-mesenchyme-Out-flow-track e10.5 PROFILE
+        longLabel CPM-OFT_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
 
-track PM_ATACseq_e10.5_Peaks
+track CPM-OFT_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ab20a6d539661bce/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 07 - Extra-cardiac : (PM)Pharyngeal-mesenchyme e10.5 PEAKS
-longLabel PM_MACS2   
+shortLabel Cluster 07 - Extra-cardiac : (CPM-OFT)Cardiopharyngeal-mesenchyme-Out-flow-track e10.5 PEAKS
+longLabel CPM-OFT_MACS2   
 type bigBed 3 +
 configurable on
 visibility dense
 color 220,162,55
 
-track PM_ATACseq_e09.5_Peaks
+track CPM-OFT_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135eff449b99c96fa7b/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 07 - Extra-cardiac : (PM)Pharyngeal-mesenchyme e09.5 PEAKS
-longLabel PM_MACS2      
+shortLabel Cluster 07 - Extra-cardiac : (CPM-OFT)Cardiopharyngeal-mesenchyme-Out-flow-track e09.5 PEAKS
+longLabel CPM-OFT_MACS2      
 type bigBed 3 +
 configurable on
 visibility dense
 color 70,156,118
 
 
-track OFT_ATACseq_Multiome_PROFILES_OVERLAY
+track aSHF-OFT_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel Cluster 06 - Cardiac : (OFT)Out-flow-track PROFILES-OVERLAY
-    longLabel OFT_MACS2  
+    shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-track PROFILES-OVERLAY
+    longLabel aSHF-OFT_MACS2  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -1137,59 +1137,59 @@ track OFT_ATACseq_Multiome_PROFILES_OVERLAY
     gridDefault off
     
     
-        track OFT_ATACseq_e09.5_Profile
-        parent OFT_ATACseq_Multiome_PROFILES_OVERLAY
+        track aSHF-OFT_ATACseq_e09.5_Profile
+        parent aSHF-OFT_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135993b550e0fea1eaf/display?to_ext=bigwig
-        shortLabel Cluster 06 - Cardiac : (OFT)Out-flow-track e09.5 PROFILE
-        longLabel OFT_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
+        shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-track e09.5 PROFILE
+        longLabel aSHF-OFT_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
           
 
-        track OFT_ATACseq_e10.5_Profile
-        parent OFT_ATACseq_Multiome_PROFILES_OVERLAY
+        track aSHF-OFT_ATACseq_e10.5_Profile
+        parent aSHF-OFT_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e0561e410b7fe2ac/display?to_ext=bigwig
-        shortLabel Cluster 06 - Cardiac : (OFT)Out-flow-track e10.5 PROFILE
-        longLabel OFT_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
+        shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-track e10.5 PROFILE
+        longLabel aSHF-OFT_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
 
 
-        track OFT_ATACseq_e11.5_Profile
-        parent OFT_ATACseq_Multiome_PROFILES_OVERLAY
+        track aSHF-OFT_ATACseq_e11.5_Profile
+        parent aSHF-OFT_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358af410ffa6dee37e/display?to_ext=bigwig
-        shortLabel Cluster 06 - Cardiac : (OFT)Out-flow-track e11.5 PROFILE
-        longLabel OFT_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
+        shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-track e11.5 PROFILE
+        longLabel aSHF-OFT_ATACseq_Javier.L.R_Multiome2022_e11.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 111,178,228
 
 
 
-track OFT_ATACseq_e11.5_Peaks
+track aSHF-OFT_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c6de8bf50957b3bf/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 06 - Cardiac : (OFT)Out-flow-track e09.5 PEAKS
-longLabel OFT_MACS2    
+shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-track e09.5 PEAKS
+longLabel aSHF-OFT_MACS2    
 type bigBed 3 +
 configurable on
 visibility dense
 color 111,178,228       
 
-track OFT_ATACseq_e10.5_Peaks
+track aSHF-OFT_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135552661b389cd4f72/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 06 - Cardiac : (OFT)Out-flow-track e10.5 PEAKS
-longLabel OFT_MACS2   
+shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-track e10.5 PEAKS
+longLabel aSHF-OFT_MACS2   
 type bigBed 3 +
 configurable on
 visibility dense
 color 220,162,55
 
-track OFT_ATACseq_e09.5_Peaks
+track aSHF-OFT_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135674cfb4cd8c27ffe/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 06 - Cardiac : (OFT)Out-flow-track e09.5 PEAKS
-longLabel OFT_MACS2      
+shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-track e09.5 PEAKS
+longLabel aSHF-OFT_MACS2      
 type bigBed 3 +
 configurable on
 visibility dense
