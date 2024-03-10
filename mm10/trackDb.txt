@@ -395,7 +395,7 @@ color 70,156,118
 
 track PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
     container multiWig
-    shortLabel Cluster 16 - Extra-cardiac : (PA_endo)Pharyngeal-arch-ectoderm PROFILES-OVERLAY
+    shortLabel Cluster 16 - Extra-cardiac : (PA_ecto)Pharyngeal-arch-ectoderm PROFILES-OVERLAY
     longLabel PA_ecto_MACS2  
     type bigWig 0 30000
     configurable on
