@@ -416,7 +416,7 @@ track PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
         track PA_ecto_ATACseq_e09.5_Profile
         parent PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354be62649e1356c0e/display?to_ext=bigwig
-        shortLabel Cluster 16 - Extra-cardiac : (PA_endo)Pharyngeal-arch-ectoderm e09.5 PROFILE
+        shortLabel Cluster 16 - Extra-cardiac : (PA_ecto)Pharyngeal-arch-ectoderm e09.5 PROFILE
         longLabel PA_ecto_ATACseq_Javier.L.R_Multiome2022_e09.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 70,156,118
@@ -425,7 +425,7 @@ track PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
         track PA_ecto_ATACseq_e10.5_Profile
         parent PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721353c7a0d583f852669/display?to_ext=bigwig
-        shortLabel Cluster 16 - Extra-cardiac : (PA_endo)Pharyngeal-arch-ectoderm e10.5 PROFILE
+        shortLabel Cluster 16 - Extra-cardiac : (PA_ecto)Pharyngeal-arch-ectoderm e10.5 PROFILE
         longLabel PA_ecto_ATACseq_Javier.L.R_Multiome2022_e10.5_DevelopmentalStageTrack_Profile
         type bigWig
         color 220,162,55
@@ -433,7 +433,7 @@ track PA_ecto_ATACseq_Multiome_PROFILES_OVERLAY
 track PA_ecto_ATACseq_e10.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357623e9ed70d61078/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 16 - Extra-cardiac : (PA_endo)Pharyngeal-arch-ectoderm e10.5 PEAKS
+shortLabel Cluster 16 - Extra-cardiac : (PA_ecto)Pharyngeal-arch-ectoderm e10.5 PEAKS
 longLabel PA_ecto_MACS2   
 type bigBed 3 +
 configurable on
@@ -443,7 +443,7 @@ color 220,162,55
 track PA_ecto_ATACseq_e09.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135114e8c40a308ce30/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 16 - Extra-cardiac : (PA_endo)Pharyngeal-arch-ectoderm e09.5 PEAKS
+shortLabel Cluster 16 - Extra-cardiac : (PA_ecto)Pharyngeal-arch-ectoderm e09.5 PEAKS
 longLabel PA_ecto_MACS2      
 type bigBed 3 +
 configurable on
