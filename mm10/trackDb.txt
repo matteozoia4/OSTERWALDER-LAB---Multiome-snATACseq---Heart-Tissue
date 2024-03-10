@@ -1168,7 +1168,7 @@ track aSHF-OFT_ATACseq_Multiome_PROFILES_OVERLAY
 track aSHF-OFT_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c6de8bf50957b3bf/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-track e09.5 PEAKS
+shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-track e11.5 PEAKS
 longLabel aSHF-OFT_MACS2    
 type bigBed 3 +
 configurable on
