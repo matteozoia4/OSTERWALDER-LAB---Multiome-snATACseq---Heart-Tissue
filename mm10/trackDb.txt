@@ -497,8 +497,6 @@ track PaM_ATACseq_Multiome_PROFILES_OVERLAY
         type bigWig
         color 111,178,228
 
-
-
 track PaM_ATACseq_e11.5_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ec5280d0b88d58f9/display?to_ext=bigbed
 itemRgb on
